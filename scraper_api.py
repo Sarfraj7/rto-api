@@ -1,7 +1,5 @@
 from fastapi import FastAPI, HTTPException
 from playwright.async_api import async_playwright
-from fastapi import FastAPI, HTTPException
-from playwright.async_api import async_playwright
 import os # <--- YEH NAYA HAI
 import json
 import uvicorn
